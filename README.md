@@ -1,96 +1,53 @@
-<table>
-<tr>
-<td width="35%" valign="top">
+<pre>
+---------------
+DIBYANSHU MOURA
+---------------
 
-<img src="https://avatars.githubusercontent.com/DibyanshuMoura" width="180" style="border-radius:50%" />
+Role: Web Developer | Computer Science Student
 
-<h2>Dibyanshu Moura</h2>
+Building practical software and developer-focused tools.
+Focused on consistent learning, real projects, and public shipping.
 
-<p>
-Developer focused on building real-world web applications.<br>
-Currently growing into full-stack engineering.
-</p>
+---------------
+Connect with me
 
-<br>
+• X / Twitter → <a href="https://x.com/DibyanshuMoura">https://x.com/DibyanshuMoura</a>
+• LinkedIn    → <a href="https://linkedin.com/in/dibyanshu-moura-213170325">https://linkedin.com/in/dibyanshu-moura-213170325</a>
+• Email       → <a href="mailto:work.dibyanshumoura@gmail.com">work.dibyanshumoura@gmail.com</a>
 
-### 🔗 Links
+--------------
+Skills & Tools
 
-- 💼 LinkedIn — https://www.linkedin.com/in/dibyanshu-moura-213170325
-- 🧠 GitHub — https://github.com/DibyanshuMoura
-- ✉️ Email — dibyanshumouraofficial@gmail.com
+• Languages   → C • C++ • JavaScript
+• Frontend    → HTML5 • CSS3 • React • TailwindCSS
+• Backend     → Node.js
+• Databases   → MySQL
+• Tools       → Git • GitHub • VS Code • Linux
 
-<br>
-
-![Followers](https://img.shields.io/github/followers/DibyanshuMoura?style=flat&color=blue)
-![Stars](https://img.shields.io/github/stars/DibyanshuMoura?style=flat&color=yellow)
-
-</td>
-
-<td width="65%" valign="top">
-
-```bash
-# DIBYANSHU MOURA
-Role: Web Developer | CS Student
-
-Turning ideas into usable software.
-Learning deeply, building consistently, shipping publicly.
-
---------------------------------------------------
-
-CONNECT
-
-GitHub    → github.com/DibyanshuMoura
-LinkedIn  → linkedin.com/in/dibyanshu-moura-213170325
-
---------------------------------------------------
-
-SKILLS
-
-Languages:
-  C • C++ • JavaScript
-
-Frontend:
-  HTML5 • CSS3 • React (in progress)
-
-Backend:
-  Node.js (learning next)
-
-Tools:
-  Git • GitHub • Linux • VS Code
-
---------------------------------------------------
-
-FEATURED PROJECT
-
-FEATURED PROJECTS
+-----------------
+Featured Projects
 
 • DevLens
-  GitHub profile analysis tool that evaluates developer
-  activity using repository data and GitHub API insights.
+  Developer analytics platform that analyzes GitHub profiles
+  using repository metadata and GitHub API insights.
 
-  Generates structured insights about:
-  - coding activity
-  - repository quality
-  - language usage
-  - contribution patterns
+  Provides structured analysis of:
+  - coding activity patterns
+  - repository quality signals
+  - language distribution
+  - contribution consistency
 
-  Built to help developers understand and improve
-  their public engineering profile.
+  Designed to help developers understand and improve
+  their public engineering presence.
 
-  Tech:
-  HTML, CSS, JavaScript, GitHub REST API, LLM Integration
+  Tech → HTML • CSS • JavaScript • GitHub REST API • LLM Integration
 
-  Repository:
-  github.com/DibyanshuMoura/DevLens
+  Repository → <a href="https://github.com/DibyanshuMoura/DevLens">https://github.com/DibyanshuMoura/DevLens</a>
 
---------------------------------------------------
-
+-------------
 CURRENT FOCUS
 
-→ Master React fundamentals
-→ Learn backend architecture
-→ Ship production-ready applications
-```
-</td>
-</tr>
-</table>
+→ Deepening React and frontend architecture
+→ Building backend systems with Node.js
+→ Shipping production-ready developer tools
+</pre>
