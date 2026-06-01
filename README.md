@@ -20,8 +20,8 @@ Skills & Tools
 
 • Languages   → C • C++ • JavaScript
 • Frontend    → HTML5 • CSS3 • React • TailwindCSS
-• Backend     → Node.js
-• Databases   → MySQL
+• Backend     → NodeJs • ExpressJS
+• Databases   → MySQL • MongoDB
 • Tools       → Git • GitHub • VS Code • Linux
 
 -----------------
