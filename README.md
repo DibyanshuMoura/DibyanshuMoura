@@ -40,9 +40,9 @@ Featured Projects
   Designed to help developers understand and improve
   their public engineering presence.
 
-  Tech → HTML • CSS • JavaScript • GitHub REST API • LLM Integration
+  Tech → HTML • CSS • JavaScript • GitHub REST API • LLM Integration • NodeJS • ExpressJS
 
-  Repository → <a href="https://github.com/DibyanshuMoura/DevLens">https://github.com/DibyanshuMoura/DevLens</a>
+  Repository → <a href="https://github.com/DibyanshuMoura/github-profile-analyzer">https://github.com/DibyanshuMoura/github-profile-analyzer</a>
 
 -------------
 CURRENT FOCUS
