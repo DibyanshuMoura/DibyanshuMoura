@@ -27,7 +27,7 @@ Skills & Tools
 -----------------
 Featured Projects
 
-• DevLens
+• Github-Profile-Analysis
   Developer analytics platform that analyzes GitHub profiles
   using repository metadata and GitHub API insights.
 
